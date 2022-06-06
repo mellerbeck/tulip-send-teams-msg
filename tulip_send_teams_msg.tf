@@ -1,4 +1,4 @@
-# Creating IAM role so that Lambda service to assume the role and access other 
+
 
 variable "tulip_send_teams_msg_function_name" {
   default = "tulip-send-teams-msg"
